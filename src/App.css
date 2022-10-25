@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  align-content: space-between;
+  background-color: rgba(115, 250, 178, 0.678);
+  margin-block-start: 0;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  list-style: none;
+  color: whitesmoke;
+}
+
+nav ul li {
+  list-style: none;
+  margin-right: 16px;
+  text-decoration: none;
+}

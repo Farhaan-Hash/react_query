@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sancho C",
+      "email": "Sancho@april.biz"
+    },
+    {
+      "id": 2,
+      "name": "Tyrell Malacia",
+      "email": "Trrell@april.biz"
+    },
+    {
+      "id": 3,
+      "name": "Bruno Fernandes",
+      "email": "Bruno@april.biz"
+    },
+    {
+      "id": 4,
+      "name": "Shaw Cross",
+      "email": "Shaw@april.biz"
+    },
+    {
+      "id": 5,
+      "name": "David Degea",
+      "email": "David@april.biz"
+    },
+    {
+      "id": 6,
+      "name": "Casemiro San",
+      "email": "Casemiro@april.biz"
+    },
+    {
+      "id": 7,
+      "name": "Lesandro Martenez",
+      "email": "Lisandro@april.biz"
+    },
+    {
+      "id": 8,
+      "name": "Marcus Rashford",
+      "email": "Rashford@april.biz"
+    },
+    {
+      "name": "Young",
+      "email": "y@ymail.com",
+      "id": 9
+    },
+    {
+      "name": "Macheda",
+      "email": "mache@wmail.com",
+      "id": 10
+    }
+  ],
+  "companies": [
+    {
+      "companyid": 1,
+      "name": "HP",
+      "email": "hp@april.biz"
+    },
+    {
+      "companyid": 2,
+      "name": "Dell",
+      "email": "dell@aweil.bz"
+    },
+    {
+      "companyid": 3,
+      "name": "Microsoft",
+      "email": "microsoft@arewt.com"
+    }
+  ],
+  "users2": [
+    {
+      "id": "abc@gmail.com",
+      "channelId": "microsoft"
+    }
+  ],
+  "channels": [
+    {
+      "id": "microsoft",
+      "courses": [
+        "dotnet",
+        "java"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": "1",
+      "label": "red"
+    },
+    {
+      "id": "2",
+      "label": "orange"
+    },
+    {
+      "id": "3",
+      "label": "voilet"
+    },
+    {
+      "id": "4",
+      "label": "gray"
+    },
+    {
+      "id": "5",
+      "label": "black"
+    },
+    {
+      "id": "6",
+      "label": "purple"
+    },
+    {
+      "id": "7",
+      "label": "pink"
+    },
+    {
+      "id": "8",
+      "label": "cyan"
+    },
+    {
+      "id": "9",
+      "label": "yellow"
+    }
+  ]
+}
